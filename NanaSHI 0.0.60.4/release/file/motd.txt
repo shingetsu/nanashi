@@ -1,0 +1,12 @@
+新月 - P2P anonymous BBS
+shinGETsu is released under the GNU General Public License
+
+http://shingetsu.sourceforge.net/
+http://fuktommy.ddo.jp:8000/gateway.cgi
+
+次の条件に同意した方のみ新月ネットワークに参加できます。
+(1) 投稿した記事に使用、改変または再配布の条件を記述するか、それらを無制限に認めること。
+(2) 違法行為に使わないこと。特に著作権を尊重すること。
+(3) 荒らし行為をしないこと。
+
+$Id: motd.txt,v 1.3 2003/12/19 14:51:39 fuktommy Exp $

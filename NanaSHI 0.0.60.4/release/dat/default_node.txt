@@ -1,0 +1,3 @@
+fuktommy.ddo.jp:8000/server.cgi
+shingetsu.s45.xrea.com:80/index.cgi
+yanga.s51.xrea.com:80/shingetsu/node.xcg

@@ -1,0 +1,7 @@
+/* Default CSS */
+/* $Id: default.css,v 1.2 2004/07/01 12:47:18 fuktommy Exp $ */
+ul { list-style: none; }
+h1, a.title { color: red; }
+em { font-size: x-large }
+.name { color: green; font-weight: bold; }
+.head { text-align: right; }

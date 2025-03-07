@@ -1,0 +1,79 @@
+# Message file for Japanese
+# $Id: message-ja.txt,v 1.7 2004/06/28 00:38:50 fuktommy Exp $
+
+lang<>ja
+
+# menu bar
+top<>トップ
+menu<>メニュー
+new<>新規作成
+index<>一覧
+changes<>更新履歴
+update<>新着情報
+search<>検索
+
+# top page
+logo<>新月 - P2P匿名掲示板
+site<>公式サイト
+license<>新月はGNU一般公衆利用許諾契約書に基づいて配布されます
+agreement<>ネットワーク利用条件
+
+# post
+send<>他のノードにも通知する
+name<>名前
+mail<>E-mail
+signature<>署名
+attach<>添付ファイル
+suffix<>拡張子
+error<>書き込み時刻に誤差
+comment<>コメント
+post<>投稿
+
+# list
+list<>リスト
+thread<>スレッド
+note<>ノート
+del_file<>ファイル削除
+del_record<>レコード削除
+remove<>削除
+
+# thread
+anonymous<>名無しさん
+
+# note
+edit<>編集
+history<>履歴
+conflict<>衝突が発生しています
+
+# delete
+yes<>はい
+del_record_q<>本当にこのレコードを削除しますか？
+del_file_q<>本当にこのファイルを削除しますか？
+
+# error
+no_record<>そのようなレコードはありません
+no_file<>そのようなファイルはありません
+null_article<>記事の内容が空です
+null_name<>名前が空です
+bad_name<>正しい名前ではありません
+null_type<>種類が空です
+big_file<>ファイルが大きすぎます
+403<>この項目を利用できるのは管理者だけです
+404<>ファイルがみつかりません
+no_data<>引数が正しくないか、データがありません
+try_later<>時間をおいて試してみてください
+
+# signature
+not_signed<>このレコードは署名されていません
+check_sign<>署名のチェック
+protected<>このレコードは署名によって保護されています
+to_from_trust_list<>この署名を信用リストに追加したり削除したりできます
+add<>追加
+delete<>削除
+wrong_sign<>このレコードは不正な署名がされています
+
+# misc
+limit<>最大
+mb<>MB
+kb<>KB
+google<>Google

@@ -1,0 +1,79 @@
+# Message file for English
+# $Id: message-en.txt,v 1.7 2004/06/28 00:38:50 fuktommy Exp $
+
+lang<>en
+
+# menu bar
+top<>TOP
+menu<>MENU
+new<>NEW
+index<>INDEX
+changes<>CHANGES
+update<>UPDATE
+search<>SEARCH
+
+# top page
+logo<>%E6%96%b0%E6%9c%88 - P2P anonymous BBS
+site<>Official Site
+license<>shinGETsu is released under the GNU General Public License
+agreement<>Agreement
+
+# post
+send<>Send to other nodes
+name<>Name
+mail<>E-mail
+signature<>Signature
+attach<>Attach
+suffix<>Suffix
+error<>Error in timestamp
+comment<>Comment
+post<>POST
+
+# list
+list<>list
+thread<>thread
+note<>note
+del_file<>DELETE FILE
+del_record<>DELETE RECORD
+remove<>remove
+
+# thread
+anonymous<>anonymous
+
+# note
+edit<>EDIT
+history<>HISTORY
+conflict<>CONFLICT
+
+# delete
+del_record_q<>Do you delete following record?
+del_file_q<>Do you delete following file?
+yes<>YES
+
+# error
+no_record<>no such record
+no_file<>no such file
+null_article<>Null Article
+null_name<>Null Name
+bad_name<>Bad Name
+null_type<>Null Type
+big_file<>Too big file
+403<>You are not the administrator.
+404<>404 Not Found
+no_data<>Bad arguments or No data.
+try_later<>Try later.
+
+# signature
+not_signed<>This record is not signed.
+check_sign<>CHECK xSIGNATURE
+protected<>This record is protected
+to_from_trust_list<>this signature to/from trust list
+add<>ADD
+delete<>DELETE
+wrong_sign<>This record has WRONG sign
+
+# misc
+google<>GOOGLE
+limit<>limit
+mb<>MB
+kb<>KB
